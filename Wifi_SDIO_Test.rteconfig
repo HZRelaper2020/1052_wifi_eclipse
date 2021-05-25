@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+  <packages/>
+  <device Dclock="600000000" Dcore="Cortex-M7" Dendian="Little-endian" Dfamily="MIMXRT1052" Dfpu="DP_FPU" Dmpu="MPU" Dname="MIMXRT1052xxxxB" Dvariant="MIMXRT1052CVL5B" Dvendor="NXP:11" info="ARM , 512 KB RAM" url="https://www.keil.com/dd2/nxp/mimxrt1052cvl5b">
+    <package info="Device Family Pack for MIMXRT1052" name="MIMXRT1052_DFP" url="http://mcuxpresso.nxp.com/cmsis_pack/repo/" vendor="NXP" version="12.1.0"/>
+  </device>
+  <toolchain Tcompiler="GCC" Toutput="exe"/>
+  <components/>
+  <apis/>
+</configuration>
