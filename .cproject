@@ -132,7 +132,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="cm_backtrace|lwip/netif/zepif.c|lwip/netif/slipif.c|lwip/netif/lowpan6.c|lwip/netif/lowpan6_common.c|lwip/netif/lowpan6_ble.c|lwip/netif/bridgeif.c|lwip/netif/bridgeif_fdb.c|lwip/netif/ppp|freertos/freertos_kernel/portable/MemMang/heap_5.c|freertos/freertos_kernel/portable/MemMang/heap_3.c|freertos_old|cm_backtrace/fault_handler/iar|lwip/test|cm_backtrace/fault_handler/keil|freertos/freertos_kernel/portable/MemMang/heap_useNewlib.c|freertos/freertos_kernel/portable/MemMang/heap_2.c|freertos/freertos_kernel/portable/MemMang/heap_1.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="lwip/netif/zepif.c|lwip/netif/slipif.c|lwip/netif/lowpan6.c|lwip/netif/lowpan6_common.c|lwip/netif/lowpan6_ble.c|lwip/netif/bridgeif.c|lwip/netif/bridgeif_fdb.c|lwip/netif/ppp|freertos/freertos_kernel/portable/MemMang/heap_5.c|freertos/freertos_kernel/portable/MemMang/heap_3.c|freertos_old|cm_backtrace/fault_handler/iar|lwip/test|cm_backtrace/fault_handler/keil|freertos/freertos_kernel/portable/MemMang/heap_useNewlib.c|freertos/freertos_kernel/portable/MemMang/heap_2.c|freertos/freertos_kernel/portable/MemMang/heap_1.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -240,7 +240,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="cm_backtrace|lwip/netif/zepif.c|lwip/netif/slipif.c|lwip/netif/lowpan6.c|lwip/netif/lowpan6_common.c|lwip/netif/lowpan6_ble.c|lwip/netif/bridgeif.c|lwip/netif/bridgeif_fdb.c|lwip/netif/ppp|freertos/freertos_kernel/portable/MemMang/heap_5.c|freertos/freertos_kernel/portable/MemMang/heap_3.c|freertos_old|cm_backtrace/fault_handler/iar|lwip/test|cm_backtrace/fault_handler/keil|freertos/freertos_kernel/portable/MemMang/heap_useNewlib.c|freertos/freertos_kernel/portable/MemMang/heap_2.c|freertos/freertos_kernel/portable/MemMang/heap_1.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="lwip/netif/zepif.c|lwip/netif/slipif.c|lwip/netif/lowpan6.c|lwip/netif/lowpan6_common.c|lwip/netif/lowpan6_ble.c|lwip/netif/bridgeif.c|lwip/netif/bridgeif_fdb.c|lwip/netif/ppp|freertos/freertos_kernel/portable/MemMang/heap_5.c|freertos/freertos_kernel/portable/MemMang/heap_3.c|freertos_old|cm_backtrace/fault_handler/iar|lwip/test|cm_backtrace/fault_handler/keil|freertos/freertos_kernel/portable/MemMang/heap_useNewlib.c|freertos/freertos_kernel/portable/MemMang/heap_2.c|freertos/freertos_kernel/portable/MemMang/heap_1.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

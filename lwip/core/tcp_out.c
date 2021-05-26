@@ -260,7 +260,7 @@ tcp_pbuf_prealloc(pbuf_layer layer, u16_t length, u16_t max_length,
     }
   }
 #endif /* LWIP_NETIF_TX_SINGLE_PBUF */
-  p = pbuf_alloc(layer+2, alloc, PBUF_RAM);
+  p = pbuf_alloc(2+layer, alloc, PBUF_RAM);
   if (p == NULL) {
     return NULL;
   }
