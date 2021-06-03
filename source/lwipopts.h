@@ -64,7 +64,7 @@
 #define CHECKSUM_CHECK_ICMP6            0
 
 /* Minimal changes to opt.h required for tcp unit tests: */
-#define MEM_SIZE                        36000
+#define MEM_SIZE                        96000
 #define TCP_SND_QUEUELEN                40
 #define MEMP_NUM_TCP_SEG                TCP_SND_QUEUELEN
 #define TCP_OVERSIZE                    1
